@@ -1,9 +1,9 @@
-# data-science-tech-cover-letter-template
-## OFFICIAL PUBLIC OVERLEAF TEMPLATE
-Link: https://www.overleaf.com/latex/templates/data-science-tech-cover-letter-template/gbrcqktbsfxf
 
-Created to serve as form letter for creation of many letters, as a complement to data-science-tech-resume-template:
-https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmpfxrzjhv
+## Cover Letter Template
+## This is a template by timmy chan
+Github : https://github.com/TimmyChan
+
+## Anyone who sees this, is free to use this. I have made a few changes of my own as well to fit my needs 
 
 ### Files:
 - cover_letter.tex: Main file
@@ -14,10 +14,6 @@ https://www.overleaf.com/latex/templates/data-science-tech-resume-template/zcdmp
 - section/closing: seal the deal
 - section/signoff: signature and stuff
 
-### Editor:
-https://github.com/TimmyChan 
-https://www.linkedin.com/in/timmy-l-chan/
                
-#### Last Updated: March 24th, 2022
 
 
