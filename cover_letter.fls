@@ -859,6 +859,16 @@ INPUT d:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT d:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT d:/texlive/2023/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT d:/texlive/2023/texmf-dist/tex/latex/graphics/color.sty
+INPUT ./cover_letter.out
+INPUT cover_letter.out
+INPUT ./cover_letter.out
+INPUT cover_letter.out
+INPUT ./cover_letter.out
+INPUT cover_letter.out
+INPUT ./cover_letter.out
+INPUT cover_letter.out
+INPUT ./cover_letter.out
+INPUT ./cover_letter.out
 OUTPUT cover_letter.out
 OUTPUT cover_letter.pdf
 INPUT ./sections/opening.tex

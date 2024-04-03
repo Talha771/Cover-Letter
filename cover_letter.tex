@@ -1,4 +1,4 @@
-    \documentclass[10pt,letter]{letter}
+\documentclass[10pt,letter]{letter}
 \usepackage[utf8]{inputenc}
 
 %====================
@@ -38,9 +38,7 @@
 %====================
 \def\name{Muhammad Talha} % Name Here
 \signature{\Talha}
-% \address{1234 Street Ave., \\
-% Unit \#777 \\ 
-% Karachi, Sindh \\
+% \address{}
 % 74200
 \def\phone{+92(341) 251-3771}
 \def\email{talha.j771@gmail.com}
@@ -51,11 +49,12 @@
 %====================
 % Company Info
 %====================
-% \def\hm{Jane Doe} % Hiring Manager Name, leave empty if unknown
+
+\def\hm{} % Hiring Manager Name, leave empty if unknown
 \def\position{Software Engineering Internship} % position
 \def\company{Motive} % company
 \def\source{on LinkedIn} % where was the posting found, "I found ____ "
-
+\def \closing{Sincerely, \name}
 % FULL SENTENCES
 \def\companynews{I understand that \company\;was included in a "Best of Tech" list, and got a new influx of investor funding as a result.}
 
@@ -69,18 +68,19 @@
 %==================
 
 \begin{document}
-\begin{letter}{\hm \\ Hiring Manager \\ Big Data, Inc. \\ Address line 1 \\ Address line 2  }
+\begin{letter}{\hm \\ Hiring Manager \\ \company }
+    % \\ Address line 1 \\ Address line 2  }
 
-\opening{Dear \hm,}
+\opening{To whom it may concern,}
 % Change \hm to "hiring manager" or equivalent in company if unknown
 
-\setlength\parindent{.5in}
+% \setlength\parindent{.5in}
 \input{sections/opening}
 \input{sections/second}
 \input{sections/closing}
 \input{sections/signoff} 
 
-\closing{Sincerely,}
+\closing{}
 \end{letter}
 
 \end{document}
