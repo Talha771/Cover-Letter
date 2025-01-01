@@ -1,0 +1,9 @@
+# Fdb version 4
+["pdflatex"] 0 "coverletter.tex" "coverletter.pdf" "coverletter" 0 -1
+  "coverletter.aux" 0 -1 0 "pdflatex"
+  "coverletter.tex" 0 -1 0 ""
+  (generated)
+  "coverletter.aux"
+  "coverletter.log"
+  "coverletter.pdf"
+  (rewritten before read)
